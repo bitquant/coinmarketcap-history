@@ -1,0 +1,28 @@
+{
+  "name": "coinmarketcap-history",
+  "version": "0.0.1",
+  "description": "Cryptocurrency historical data download from CoinMarketCap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitquant/coinmarketcap-history.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "history",
+    "coinmarketcap",
+    "download"
+  ],
+  "author": "bitquant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitquant/coinmarketcap-history/issues"
+  },
+  "homepage": "https://github.com/bitquant/coinmarketcap-history#readme",
+  "dependencies": {
+    "puppeteer": "1.4.0"
+  }
+}
